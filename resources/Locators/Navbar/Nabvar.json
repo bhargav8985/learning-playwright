@@ -1,0 +1,22 @@
+{
+  "Navbar": {
+    "Forms": {
+      "common": "//a[contains(text(),'Forms')]"
+    },
+    "Buttons":{
+  "common": "//a[contains(text(),'Buttons')]"
+},
+    "Tables": {
+      "common": "//a[contains(text(),'Tables')]"
+    },
+    "Dropdowns": {
+      "common": "//a[contains(text(),'Dropdowns')]"
+    },
+    "Iframes": {
+      "common": "//a[contains(text(),'Iframes')]"
+    },
+    "Alerts": {
+      "common": "//a[contains(text(),'Alerts')]"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "AuthLogin": {
+    "usernameInput": "//input[@id='email']",
+    "passwordInput": "//input[@id='password']",
+    "loginBtn": "//*[@id='submitLoginBtn']",
+    "logoutLink": "//*[@id='logout']",
+    "errorMsg": "//div[contains(text(),'Bad credentials')]"
+  }
+}

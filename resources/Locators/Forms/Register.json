@@ -1,0 +1,12 @@
+{
+  "RegisterForm": {
+    "firstname": "//input[@id='firstName']",
+    "lastname": "//input[@id='lastName']",
+"phone": "//input[@id='phone']",
+"country":"#countries_dropdown_menu",
+    "email": "//input[@id='emailAddress']",
+    "password": "//input[@id='password']",
+    "registerBtn": "//button[@id='registerBtn']",
+    "registertext": "//*[@id='message']"
+  }
+}
