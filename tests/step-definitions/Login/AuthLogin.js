@@ -1,6 +1,5 @@
 const { Given, When, Then } = require("@cucumber/cucumber");
 const{AuthLogin}=require("../../../tests/pageObjects/Navbar/Login/AuthLogin")
-const credentials=require("../../../resources/Credentials/Logintab/AuthLogin.json")
 Given('the user is on the home page', async function () {
     this.AuthLogin= new AuthLogin(this.page);
    await  this.AuthLogin.goto();

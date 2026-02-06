@@ -5,6 +5,9 @@ module.exports = {
             'tests/step-definitions/**/*.js',
             'support/**/*.js'
         ],
-        format: ['progress']
+        format: [
+            'progress',
+            './tests/utils/reporter.js'
+        ]
     }
 };
