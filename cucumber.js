@@ -6,8 +6,7 @@ module.exports = {
             'support/**/*.js'
         ],
         format: [
-            'progress',
-            './tests/utils/reporter.js'
+
         ]
     }
 };
