@@ -6,13 +6,14 @@ const {Register} = require("../tests/pageObjects/Navbar/Login/Register");
 const {chromium} = require("@playwright/test");
 Before(async function () {
     logger.info("Launching browser");
-
-    this.browser = await chromium.launch({ headless: false });
-    this.context = await this.browser.newContext();
+    this.browser = await chromium.launch({
+        headless: false,
+        args: ['--start-maximized']   // maximizes window
+    });
+    this.context = await this.browser.newContext({
+        viewport: null   // makes viewport match full window size
+    });
     this.page = await this.context.newPage();
-
-    // ✅ initialize here
-    this.Register = new Register(this.page);
 });
 
 After(async function () {

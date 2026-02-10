@@ -2,6 +2,8 @@
   <dictionary name="project">
     <words>
       <w>Credswithoutpassword</w>
+      <w>addtocartbtn</w>
+      <w>proceedtocheckoutbth</w>
     </words>
   </dictionary>
 </component>
