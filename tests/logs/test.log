@@ -1,0 +1,169 @@
+[2026-02-10T09:08:57.945Z] [INFO] Launching browser
+[2026-02-10T09:09:01.769Z] [INFO] When the user is in the home page
+[2026-02-10T09:09:01.910Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:09:01.925Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:09:01.928Z] [INFO] clickAddtoCartBtn
+[2026-02-10T09:09:01.981Z] [INFO] isspanelementVisible
+[2026-02-10T09:09:10.556Z] [INFO] clicked Proceed to Checkout button
+[2026-02-10T09:09:10.560Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:09:10.612Z] [INFO] Using test data: login
+[2026-02-10T09:09:10.616Z] [INFO] Filling form Phone number
+[2026-02-10T09:09:10.638Z] [INFO] Filling form Street
+[2026-02-10T09:09:10.665Z] [INFO] Filling form city
+[2026-02-10T09:09:10.690Z] [INFO] Filling form country
+[2026-02-10T09:09:10.709Z] [INFO] clickSubmitBtn
+[2026-02-10T09:09:10.713Z] [INFO] the test is closed
+[2026-02-10T09:11:46.912Z] [INFO] Launching browser
+[2026-02-10T09:11:50.452Z] [INFO] When the user is in the home page
+[2026-02-10T09:11:50.577Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:11:50.591Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:11:50.594Z] [INFO] clickAddtoCartBtn
+[2026-02-10T09:11:50.648Z] [INFO] isspanelementVisible
+[2026-02-10T09:11:57.735Z] [INFO] clicked Proceed to Checkout button
+[2026-02-10T09:11:57.739Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:11:57.801Z] [INFO] Using test data: login
+[2026-02-10T09:11:57.804Z] [INFO] Filling form Phone number
+[2026-02-10T09:11:57.824Z] [INFO] Filling form Street
+[2026-02-10T09:11:57.849Z] [INFO] Filling form city
+[2026-02-10T09:11:57.866Z] [INFO] Filling form country
+[2026-02-10T09:11:57.877Z] [INFO] clickSubmitBtn
+[2026-02-10T09:11:57.881Z] [INFO] the test is closed
+[2026-02-10T09:12:08.322Z] [INFO] Launching browser
+[2026-02-10T09:12:10.988Z] [INFO] When the user is in the home page
+[2026-02-10T09:12:11.109Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:12:11.124Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:12:11.127Z] [INFO] clickAddtoCartBtn
+[2026-02-10T09:12:11.162Z] [INFO] isspanelementVisible
+[2026-02-10T09:12:41.179Z] [INFO] the test is closed
+[2026-02-10T09:16:53.360Z] [INFO] Launching browser
+[2026-02-10T09:16:57.317Z] [INFO] When the user is in the home page
+[2026-02-10T09:16:57.477Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:16:57.495Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:16:57.500Z] [INFO] clickAddtoCartBtn
+[2026-02-10T09:16:57.565Z] [INFO] isspanelementVisible
+[2026-02-10T09:17:27.576Z] [INFO] the test is closed
+[2026-02-10T09:21:35.561Z] [INFO] Launching browser
+[2026-02-10T09:21:40.081Z] [INFO] When the user is in the home page
+[2026-02-10T09:21:40.230Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:21:40.244Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:21:40.247Z] [INFO] Clicking Add to Cart button
+[2026-02-10T09:21:40.317Z] [INFO] Clicked Add to Cart successfully
+[2026-02-10T09:21:40.321Z] [INFO] isspanelementVisible
+[2026-02-10T09:22:02.293Z] [INFO] clicked Proceed to Checkout button
+[2026-02-10T09:22:02.298Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:22:02.357Z] [INFO] Using test data: login
+[2026-02-10T09:22:02.361Z] [INFO] Filling form Phone number
+[2026-02-10T09:22:02.378Z] [INFO] Filling form Street
+[2026-02-10T09:22:02.402Z] [INFO] Filling form city
+[2026-02-10T09:22:02.421Z] [INFO] Filling form country
+[2026-02-10T09:22:02.430Z] [INFO] clickSubmitBtn
+[2026-02-10T09:22:02.483Z] [INFO] check Congrats Msg is Visible
+[2026-02-10T09:22:02.497Z] [INFO] the test is closed
+[2026-02-10T09:26:22.778Z] [INFO] Launching browser
+[2026-02-10T09:26:26.835Z] [INFO] When the user is in the home page
+[2026-02-10T09:26:27.002Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:26:27.020Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:26:27.022Z] [INFO] Clicking Add to Cart button
+[2026-02-10T09:26:27.125Z] [INFO] Clicked Add to Cart successfully
+[2026-02-10T09:26:27.128Z] [INFO] isspanelementVisible
+[2026-02-10T09:26:55.415Z] [INFO] clicked Proceed to Checkout button
+[2026-02-10T09:26:55.421Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:26:55.531Z] [INFO] Using test data: login
+[2026-02-10T09:26:55.537Z] [INFO] Filling form Phone number
+[2026-02-10T09:26:55.551Z] [INFO] Filling form Street
+[2026-02-10T09:26:55.580Z] [INFO] Filling form city
+[2026-02-10T09:26:55.596Z] [INFO] Filling form country
+[2026-02-10T09:26:55.605Z] [INFO] clickSubmitBtn
+[2026-02-10T09:26:55.688Z] [INFO] check Congrats Msg is Visible
+[2026-02-10T09:26:55.702Z] [INFO] the test is closed
+[2026-02-10T09:28:14.252Z] [INFO] Launching browser
+[2026-02-10T09:28:17.900Z] [INFO] When the user is in the home page
+[2026-02-10T09:28:18.093Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:28:18.105Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:28:18.108Z] [INFO] Clicking Add to Cart button
+[2026-02-10T09:28:18.302Z] [INFO] Clicked Add to Cart successfully
+[2026-02-10T09:28:18.305Z] [INFO] isspanelementVisible
+[2026-02-10T09:28:48.324Z] [INFO] the test is closed
+[2026-02-10T09:30:31.440Z] [INFO] Launching browser
+[2026-02-10T09:30:35.484Z] [INFO] When the user is in the home page
+[2026-02-10T09:30:37.944Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:30:37.955Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:30:37.959Z] [INFO] Clicking Add to Cart button
+[2026-02-10T09:30:38.161Z] [INFO] Clicked Add to Cart successfully
+[2026-02-10T09:30:38.164Z] [INFO] isspanelementVisible
+[2026-02-10T09:30:38.173Z] [INFO] clicked Proceed to Checkout button
+[2026-02-10T09:30:38.177Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:30:38.291Z] [INFO] Using test data: login
+[2026-02-10T09:30:38.295Z] [INFO] Filling form Phone number
+[2026-02-10T09:30:38.310Z] [INFO] Filling form Street
+[2026-02-10T09:30:38.332Z] [INFO] Filling form city
+[2026-02-10T09:30:38.353Z] [INFO] Filling form country
+[2026-02-10T09:30:38.362Z] [INFO] clickSubmitBtn
+[2026-02-10T09:30:38.466Z] [INFO] check Congrats Msg is Visible
+[2026-02-10T09:30:38.480Z] [INFO] the test is closed
+[2026-02-10T09:30:53.346Z] [INFO] Launching browser
+[2026-02-10T09:30:55.213Z] [INFO] When the user is in the home page
+[2026-02-10T09:31:01.442Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:31:01.455Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:31:01.459Z] [INFO] Clicking Add to Cart button
+[2026-02-10T09:31:01.565Z] [INFO] Clicked Add to Cart successfully
+[2026-02-10T09:31:01.569Z] [INFO] isspanelementVisible
+[2026-02-10T09:31:01.578Z] [INFO] clicked Proceed to Checkout button
+[2026-02-10T09:31:01.580Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:31:01.742Z] [INFO] Using test data: login
+[2026-02-10T09:31:01.746Z] [INFO] Filling form Phone number
+[2026-02-10T09:31:01.766Z] [INFO] Filling form Street
+[2026-02-10T09:31:01.790Z] [INFO] Filling form city
+[2026-02-10T09:31:01.814Z] [INFO] Filling form country
+[2026-02-10T09:31:01.834Z] [INFO] clickSubmitBtn
+[2026-02-10T09:31:01.914Z] [INFO] check Congrats Msg is Visible
+[2026-02-10T09:31:01.929Z] [INFO] the test is closed
+[2026-02-10T09:31:55.904Z] [INFO] Launching browser
+[2026-02-10T09:32:06.562Z] [INFO] the test is closed
+[2026-02-10T09:32:07.023Z] [INFO] Launching browser
+[2026-02-10T09:32:07.667Z] [INFO] User is navigating to register page
+[2026-02-10T09:32:07.670Z] [INFO] Opening link
+[2026-02-10T09:32:09.268Z] [INFO] Link is Opened
+[2026-02-10T09:32:09.273Z] [INFO] Using test data: CorrectCredentials
+[2026-02-10T09:32:09.276Z] [INFO] Filling form fname
+[2026-02-10T09:32:09.316Z] [INFO] Filling form lname
+[2026-02-10T09:32:09.336Z] [INFO] Filling form phone
+[2026-02-10T09:32:09.356Z] [INFO] Filling form country
+[2026-02-10T09:32:09.371Z] [INFO] Filling form email
+[2026-02-10T09:32:09.393Z] [INFO] Filling form password
+[2026-02-10T09:32:09.416Z] [INFO] Click Register login
+[2026-02-10T09:32:10.077Z] [INFO] Checking successful registration
+[2026-02-10T09:32:10.080Z] [INFO] RegisteredtextVisible
+[2026-02-10T09:32:10.089Z] [INFO] the test is closed
+[2026-02-10T09:32:10.513Z] [INFO] Launching browser
+[2026-02-10T09:32:11.154Z] [INFO] User is navigating to register page
+[2026-02-10T09:32:11.156Z] [INFO] Opening link
+[2026-02-10T09:32:12.935Z] [INFO] Link is Opened
+[2026-02-10T09:32:12.939Z] [INFO] Using test data: Credswithoutpassword
+[2026-02-10T09:32:12.942Z] [INFO] Filling form fname
+[2026-02-10T09:32:12.980Z] [INFO] Filling form lname
+[2026-02-10T09:32:13.001Z] [INFO] Filling form phone
+[2026-02-10T09:32:13.029Z] [INFO] Filling form country
+[2026-02-10T09:32:13.046Z] [INFO] Filling form email
+[2026-02-10T09:32:13.067Z] [INFO] Filling form password
+[2026-02-10T09:32:13.085Z] [INFO] Click Register login
+[2026-02-10T09:32:13.750Z] [INFO] Checking validation error
+[2026-02-10T09:32:13.754Z] [INFO] Check validationmessagespasswordfield
+[2026-02-10T09:32:13.936Z] [INFO] the test is closed
+[2026-02-10T09:32:14.367Z] [INFO] Launching browser
+[2026-02-10T09:32:16.378Z] [INFO] When the user is in the home page
+[2026-02-10T09:32:24.635Z] [INFO] When the shopping page should be displayed
+[2026-02-10T09:32:24.644Z] [INFO] clicking Add to Cart button
+[2026-02-10T09:32:24.647Z] [INFO] Clicking Add to Cart button
+[2026-02-10T09:32:24.872Z] [INFO] Clicked Add to Cart successfully
+[2026-02-10T09:32:24.876Z] [INFO] isspanelementVisible
+[2026-02-10T09:32:24.896Z] [INFO] clicked Proceed to Checkout button
+[2026-02-10T09:32:24.904Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:32:25.003Z] [INFO] Using test data: login
+[2026-02-10T09:32:25.006Z] [INFO] Filling form Phone number
+[2026-02-10T09:32:25.025Z] [INFO] Filling form Street
+[2026-02-10T09:32:25.045Z] [INFO] Filling form city
+[2026-02-10T09:32:25.067Z] [INFO] Filling form country
+[2026-02-10T09:32:25.075Z] [INFO] clickSubmitBtn
+[2026-02-10T09:32:25.156Z] [INFO] check Congrats Msg is Visible
+[2026-02-10T09:32:25.167Z] [INFO] the test is closed

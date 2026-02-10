@@ -1,0 +1,17 @@
+{
+  "phone":
+{
+  "AddtoCartBtn": "//*[@id='prooood']/section[2]/div/div[1]/div/button",
+"ProceedtocheckoutBth": "//*[@id='prooood']/section[1]/button",
+  "spanelement":"//*[@id='prooood']/section[1]/div[2]/div/div[1]/span"
+},
+  "form":
+  {
+    "Phoneno": "//*[@id='phone']",
+    "Street": "//input[@name='street']",
+    "city": "//input[@name='city']",
+    "country": "//*[@name='country']",
+    "SubmitBtn":"//button[@id='submitOrderBtn']"
+  },
+  "SucessMsg": "//div[@id='message']"
+}
