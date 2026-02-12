@@ -5,7 +5,7 @@
 [2026-02-10T09:09:01.928Z] [INFO] clickAddtoCartBtn
 [2026-02-10T09:09:01.981Z] [INFO] isspanelementVisible
 [2026-02-10T09:09:10.556Z] [INFO] clicked Proceed to Checkout button
-[2026-02-10T09:09:10.560Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:09:10.560Z] [INFO] clickProceedCheckout
 [2026-02-10T09:09:10.612Z] [INFO] Using test data: login
 [2026-02-10T09:09:10.616Z] [INFO] Filling form Phone number
 [2026-02-10T09:09:10.638Z] [INFO] Filling form Street
@@ -20,7 +20,7 @@
 [2026-02-10T09:11:50.594Z] [INFO] clickAddtoCartBtn
 [2026-02-10T09:11:50.648Z] [INFO] isspanelementVisible
 [2026-02-10T09:11:57.735Z] [INFO] clicked Proceed to Checkout button
-[2026-02-10T09:11:57.739Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:11:57.739Z] [INFO] clickProceedCheckout
 [2026-02-10T09:11:57.801Z] [INFO] Using test data: login
 [2026-02-10T09:11:57.804Z] [INFO] Filling form Phone number
 [2026-02-10T09:11:57.824Z] [INFO] Filling form Street
@@ -50,7 +50,7 @@
 [2026-02-10T09:21:40.317Z] [INFO] Clicked Add to Cart successfully
 [2026-02-10T09:21:40.321Z] [INFO] isspanelementVisible
 [2026-02-10T09:22:02.293Z] [INFO] clicked Proceed to Checkout button
-[2026-02-10T09:22:02.298Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:22:02.298Z] [INFO] clickProceedCheckout
 [2026-02-10T09:22:02.357Z] [INFO] Using test data: login
 [2026-02-10T09:22:02.361Z] [INFO] Filling form Phone number
 [2026-02-10T09:22:02.378Z] [INFO] Filling form Street
@@ -67,7 +67,7 @@
 [2026-02-10T09:26:27.125Z] [INFO] Clicked Add to Cart successfully
 [2026-02-10T09:26:27.128Z] [INFO] isspanelementVisible
 [2026-02-10T09:26:55.415Z] [INFO] clicked Proceed to Checkout button
-[2026-02-10T09:26:55.421Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:26:55.421Z] [INFO] clickProceedCheckout
 [2026-02-10T09:26:55.531Z] [INFO] Using test data: login
 [2026-02-10T09:26:55.537Z] [INFO] Filling form Phone number
 [2026-02-10T09:26:55.551Z] [INFO] Filling form Street
@@ -92,7 +92,7 @@
 [2026-02-10T09:30:38.161Z] [INFO] Clicked Add to Cart successfully
 [2026-02-10T09:30:38.164Z] [INFO] isspanelementVisible
 [2026-02-10T09:30:38.173Z] [INFO] clicked Proceed to Checkout button
-[2026-02-10T09:30:38.177Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:30:38.177Z] [INFO] clickProceedCheckout
 [2026-02-10T09:30:38.291Z] [INFO] Using test data: login
 [2026-02-10T09:30:38.295Z] [INFO] Filling form Phone number
 [2026-02-10T09:30:38.310Z] [INFO] Filling form Street
@@ -109,7 +109,7 @@
 [2026-02-10T09:31:01.565Z] [INFO] Clicked Add to Cart successfully
 [2026-02-10T09:31:01.569Z] [INFO] isspanelementVisible
 [2026-02-10T09:31:01.578Z] [INFO] clicked Proceed to Checkout button
-[2026-02-10T09:31:01.580Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:31:01.580Z] [INFO] clickProceedCheckout
 [2026-02-10T09:31:01.742Z] [INFO] Using test data: login
 [2026-02-10T09:31:01.746Z] [INFO] Filling form Phone number
 [2026-02-10T09:31:01.766Z] [INFO] Filling form Street
@@ -158,7 +158,7 @@
 [2026-02-10T09:32:24.872Z] [INFO] Clicked Add to Cart successfully
 [2026-02-10T09:32:24.876Z] [INFO] isspanelementVisible
 [2026-02-10T09:32:24.896Z] [INFO] clicked Proceed to Checkout button
-[2026-02-10T09:32:24.904Z] [INFO] clickProceedtoCheckout
+[2026-02-10T09:32:24.904Z] [INFO] clickProceedCheckout
 [2026-02-10T09:32:25.003Z] [INFO] Using test data: login
 [2026-02-10T09:32:25.006Z] [INFO] Filling form Phone number
 [2026-02-10T09:32:25.025Z] [INFO] Filling form Street

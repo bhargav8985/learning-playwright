@@ -20,8 +20,8 @@ constructor(page){
         logger.info("Clicked Add to Cart successfully");
     }
 
-async clickProceedtoCheckout(){
-    logger.info("clickProceedtoCheckout");
+async clickProceedCheckout(){
+    logger.info("clickProceedCheckout");
     await this.browser.click(this.browser.getLocator(locators.phone.ProceedtocheckoutBth));
 }
 async fillform(user){

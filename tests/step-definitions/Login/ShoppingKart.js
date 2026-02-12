@@ -27,7 +27,7 @@ await this.ShoppingKart.isspanelementVisible();
 
 When('clicked proceed to checkout button the details should be opened',async function () {
     logger.info("clicked Proceed to Checkout button");
-    await this.ShoppingKart.clickProceedtoCheckout();
+    await this.ShoppingKart.clickProceedCheckout();
 });
 When('fill the details in the details page using {string} data click submit',async function (userKey) {
     logger.info(`Using test data: ${userKey}`);
