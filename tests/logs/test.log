@@ -167,3 +167,286 @@
 [2026-02-10T09:32:25.075Z] [INFO] clickSubmitBtn
 [2026-02-10T09:32:25.156Z] [INFO] check Congrats Msg is Visible
 [2026-02-10T09:32:25.167Z] [INFO] the test is closed
+[2026-02-12T08:46:08.062Z] [INFO] Launching browser
+[2026-02-12T08:46:17.464Z] [INFO] the test is closed
+[2026-02-12T08:46:17.976Z] [INFO] Launching browser
+[2026-02-12T08:46:18.718Z] [INFO] User is navigating to register page
+[2026-02-12T08:46:18.723Z] [INFO] Opening link
+[2026-02-12T08:46:20.848Z] [INFO] Link is Opened
+[2026-02-12T08:46:20.852Z] [INFO] Using test data: CorrectCredentials
+[2026-02-12T08:46:20.855Z] [INFO] Filling form fname
+[2026-02-12T08:46:20.898Z] [INFO] Filling form lname
+[2026-02-12T08:46:20.922Z] [INFO] Filling form phone
+[2026-02-12T08:46:20.953Z] [INFO] Filling form country
+[2026-02-12T08:46:20.965Z] [INFO] Filling form email
+[2026-02-12T08:46:20.993Z] [INFO] Filling form password
+[2026-02-12T08:46:21.019Z] [INFO] Click Register login
+[2026-02-12T08:46:21.719Z] [INFO] Checking successful registration
+[2026-02-12T08:46:21.725Z] [INFO] RegisteredtextVisible
+[2026-02-12T08:46:21.738Z] [INFO] the test is closed
+[2026-02-12T08:46:22.186Z] [INFO] Launching browser
+[2026-02-12T08:46:22.891Z] [INFO] User is navigating to register page
+[2026-02-12T08:46:22.893Z] [INFO] Opening link
+[2026-02-12T08:46:25.171Z] [INFO] Link is Opened
+[2026-02-12T08:46:25.175Z] [INFO] Using test data: Credswithoutpassword
+[2026-02-12T08:46:25.178Z] [INFO] Filling form fname
+[2026-02-12T08:46:25.221Z] [INFO] Filling form lname
+[2026-02-12T08:46:25.241Z] [INFO] Filling form phone
+[2026-02-12T08:46:25.262Z] [INFO] Filling form country
+[2026-02-12T08:46:25.277Z] [INFO] Filling form email
+[2026-02-12T08:46:25.293Z] [INFO] Filling form password
+[2026-02-12T08:46:25.312Z] [INFO] Click Register login
+[2026-02-12T08:46:25.999Z] [INFO] Checking validation error
+[2026-02-12T08:46:26.004Z] [INFO] Check validationmessagespasswordfield
+[2026-02-12T08:46:26.189Z] [INFO] the test is closed
+[2026-02-12T08:46:26.597Z] [INFO] Launching browser
+[2026-02-12T08:46:28.745Z] [INFO] When the user is in the home page
+[2026-02-12T08:46:48.959Z] [INFO] When the shopping page should be displayed
+[2026-02-12T08:46:55.776Z] [INFO] the test is closed
+[2026-02-12T08:47:12.719Z] [INFO] Launching browser
+[2026-02-12T08:47:20.468Z] [INFO] the test is closed
+[2026-02-12T08:47:20.899Z] [INFO] Launching browser
+[2026-02-12T08:47:21.630Z] [INFO] User is navigating to register page
+[2026-02-12T08:47:21.633Z] [INFO] Opening link
+[2026-02-12T08:47:23.501Z] [INFO] Link is Opened
+[2026-02-12T08:47:23.504Z] [INFO] Using test data: CorrectCredentials
+[2026-02-12T08:47:23.506Z] [INFO] Filling form fname
+[2026-02-12T08:47:23.546Z] [INFO] Filling form lname
+[2026-02-12T08:47:23.568Z] [INFO] Filling form phone
+[2026-02-12T08:47:23.585Z] [INFO] Filling form country
+[2026-02-12T08:47:23.609Z] [INFO] Filling form email
+[2026-02-12T08:47:23.632Z] [INFO] Filling form password
+[2026-02-12T08:47:23.651Z] [INFO] Click Register login
+[2026-02-12T08:47:24.244Z] [INFO] Checking successful registration
+[2026-02-12T08:47:24.247Z] [INFO] RegisteredtextVisible
+[2026-02-12T08:47:24.256Z] [INFO] the test is closed
+[2026-02-12T08:47:24.684Z] [INFO] Launching browser
+[2026-02-12T08:47:25.387Z] [INFO] User is navigating to register page
+[2026-02-12T08:47:25.390Z] [INFO] Opening link
+[2026-02-12T08:47:26.726Z] [INFO] Link is Opened
+[2026-02-12T08:47:26.730Z] [INFO] Using test data: Credswithoutpassword
+[2026-02-12T08:47:26.733Z] [INFO] Filling form fname
+[2026-02-12T08:47:26.776Z] [INFO] Filling form lname
+[2026-02-12T08:47:26.808Z] [INFO] Filling form phone
+[2026-02-12T08:47:26.834Z] [INFO] Filling form country
+[2026-02-12T08:47:26.850Z] [INFO] Filling form email
+[2026-02-12T08:47:26.867Z] [INFO] Filling form password
+[2026-02-12T08:47:26.890Z] [INFO] Click Register login
+[2026-02-12T08:47:27.552Z] [INFO] Checking validation error
+[2026-02-12T08:47:27.557Z] [INFO] Check validationmessagespasswordfield
+[2026-02-12T08:47:27.745Z] [INFO] the test is closed
+[2026-02-12T08:47:28.337Z] [INFO] Launching browser
+[2026-02-12T08:47:31.201Z] [INFO] When the user is in the home page
+[2026-02-12T08:47:33.523Z] [INFO] When the shopping page should be displayed
+[2026-02-12T08:47:33.532Z] [INFO] clicking Add to Cart button
+[2026-02-12T08:47:33.535Z] [INFO] Clicking Add to Cart button
+[2026-02-12T08:47:33.635Z] [INFO] Clicked Add to Cart successfully
+[2026-02-12T08:47:33.638Z] [INFO] isspanelementVisible
+[2026-02-12T08:47:33.645Z] [INFO] clicked Proceed to Checkout button
+[2026-02-12T08:47:33.648Z] [INFO] clickProceedCheckout
+[2026-02-12T08:47:33.793Z] [INFO] Using test data: login
+[2026-02-12T08:47:33.798Z] [INFO] Filling form Phone number
+[2026-02-12T08:47:33.819Z] [INFO] Filling form Street
+[2026-02-12T08:47:33.848Z] [INFO] Filling form city
+[2026-02-12T08:47:33.868Z] [INFO] Filling form country
+[2026-02-12T08:47:33.882Z] [INFO] clickSubmitBtn
+[2026-02-12T08:47:33.970Z] [INFO] check Congrats Msg is Visible
+[2026-02-12T08:47:33.985Z] [INFO] the test is closed
+[2026-02-13T09:48:40.785Z] [INFO] Launching browser
+[2026-02-13T09:48:48.403Z] [INFO] the test is closed
+[2026-02-13T09:48:48.893Z] [INFO] Launching browser
+[2026-02-13T09:48:49.579Z] [INFO] User is navigating to register page
+[2026-02-13T09:48:49.582Z] [INFO] Opening link
+[2026-02-13T09:48:51.958Z] [INFO] Link is Opened
+[2026-02-13T09:48:51.962Z] [INFO] Using test data: CorrectCredentials
+[2026-02-13T09:48:51.967Z] [INFO] Filling form fname
+[2026-02-13T09:48:52.011Z] [INFO] Filling form lname
+[2026-02-13T09:48:52.038Z] [INFO] Filling form phone
+[2026-02-13T09:48:52.058Z] [INFO] Filling form country
+[2026-02-13T09:48:52.078Z] [INFO] Filling form email
+[2026-02-13T09:48:52.101Z] [INFO] Filling form password
+[2026-02-13T09:48:52.123Z] [INFO] Click Register login
+[2026-02-13T09:48:52.758Z] [INFO] Checking successful registration
+[2026-02-13T09:48:52.762Z] [INFO] RegisteredtextVisible
+[2026-02-13T09:48:52.772Z] [INFO] the test is closed
+[2026-02-13T09:48:53.187Z] [INFO] Launching browser
+[2026-02-13T09:48:53.828Z] [INFO] User is navigating to register page
+[2026-02-13T09:48:53.830Z] [INFO] Opening link
+[2026-02-13T09:48:56.081Z] [INFO] Link is Opened
+[2026-02-13T09:48:56.085Z] [INFO] Using test data: Credswithoutpassword
+[2026-02-13T09:48:56.088Z] [INFO] Filling form fname
+[2026-02-13T09:48:56.125Z] [INFO] Filling form lname
+[2026-02-13T09:48:56.150Z] [INFO] Filling form phone
+[2026-02-13T09:48:56.165Z] [INFO] Filling form country
+[2026-02-13T09:48:56.182Z] [INFO] Filling form email
+[2026-02-13T09:48:56.211Z] [INFO] Filling form password
+[2026-02-13T09:48:56.244Z] [INFO] Click Register login
+[2026-02-13T09:48:56.904Z] [INFO] Checking validation error
+[2026-02-13T09:48:56.909Z] [INFO] Check validationmessagespasswordfield
+[2026-02-13T09:48:57.105Z] [INFO] the test is closed
+[2026-02-13T09:48:57.541Z] [INFO] Launching browser
+[2026-02-13T09:48:59.727Z] [INFO] When the user is in the home page
+[2026-02-13T09:49:08.409Z] [INFO] When the shopping page should be displayed
+[2026-02-13T09:49:08.418Z] [INFO] clicking Add to Cart button
+[2026-02-13T09:49:08.423Z] [INFO] Clicking Add to Cart button
+[2026-02-13T09:49:08.531Z] [INFO] Clicked Add to Cart successfully
+[2026-02-13T09:49:08.534Z] [INFO] isspanelementVisible
+[2026-02-13T09:49:08.540Z] [INFO] clicked Proceed to Checkout button
+[2026-02-13T09:49:08.543Z] [INFO] clickProceedCheckout
+[2026-02-13T09:49:08.693Z] [INFO] Using test data: login
+[2026-02-13T09:49:08.695Z] [INFO] Filling form Phone number
+[2026-02-13T09:49:08.716Z] [INFO] Filling form Street
+[2026-02-13T09:49:08.741Z] [INFO] Filling form city
+[2026-02-13T09:49:08.761Z] [INFO] Filling form country
+[2026-02-13T09:49:08.778Z] [INFO] clickSubmitBtn
+[2026-02-13T09:49:08.864Z] [INFO] check Congrats Msg is Visible
+[2026-02-13T09:49:08.877Z] [INFO] the test is closed
+[2026-02-17T07:01:24.177Z] [INFO] Launching browser
+[2026-02-17T07:01:34.606Z] [INFO] the test is closed
+[2026-02-18T05:34:54.697Z] [INFO] Launching browser
+[2026-02-18T05:35:43.205Z] [INFO] the test is closed
+[2026-02-18T05:35:44.076Z] [INFO] Launching browser
+[2026-02-18T05:35:45.167Z] [INFO] User is navigating to register page
+[2026-02-18T05:35:45.174Z] [INFO] Opening link
+[2026-02-18T05:35:47.754Z] [INFO] Link is Opened
+[2026-02-18T05:35:47.825Z] [INFO] Using test data: CorrectCredentials
+[2026-02-18T05:35:47.830Z] [INFO] Filling form fname
+[2026-02-18T05:35:47.883Z] [INFO] Filling form lname
+[2026-02-18T05:35:47.922Z] [INFO] Filling form phone
+[2026-02-18T05:35:47.956Z] [INFO] Filling form country
+[2026-02-18T05:35:47.984Z] [INFO] Filling form email
+[2026-02-18T05:35:48.014Z] [INFO] Filling form password
+[2026-02-18T05:35:48.057Z] [INFO] Click Register login
+[2026-02-18T05:35:49.339Z] [INFO] Checking successful registration
+[2026-02-18T05:35:49.347Z] [INFO] RegisteredtextVisible
+[2026-02-18T05:35:49.368Z] [INFO] the test is closed
+[2026-02-18T05:35:50.197Z] [INFO] Launching browser
+[2026-02-18T05:35:51.196Z] [INFO] User is navigating to register page
+[2026-02-18T05:35:51.200Z] [INFO] Opening link
+[2026-02-18T05:35:53.243Z] [INFO] Link is Opened
+[2026-02-18T05:35:53.250Z] [INFO] Using test data: Credswithoutpassword
+[2026-02-18T05:35:53.255Z] [INFO] Filling form fname
+[2026-02-18T05:35:53.304Z] [INFO] Filling form lname
+[2026-02-18T05:35:53.349Z] [INFO] Filling form phone
+[2026-02-18T05:35:53.385Z] [INFO] Filling form country
+[2026-02-18T05:35:53.406Z] [INFO] Filling form email
+[2026-02-18T05:35:53.456Z] [INFO] Filling form password
+[2026-02-18T05:35:53.502Z] [INFO] Click Register login
+[2026-02-18T05:35:54.141Z] [INFO] Checking validation error
+[2026-02-18T05:35:54.148Z] [INFO] Check validationmessagespasswordfield
+[2026-02-18T05:35:54.406Z] [INFO] the test is closed
+[2026-02-18T05:35:55.203Z] [INFO] Launching browser
+[2026-02-18T05:35:58.718Z] [INFO] When the user is in the home page
+[2026-02-18T05:36:00.625Z] [INFO] When the shopping page should be displayed
+[2026-02-18T05:36:00.638Z] [INFO] clicking Add to Cart button
+[2026-02-18T05:36:00.645Z] [INFO] Clicking Add to Cart button
+[2026-02-18T05:36:00.772Z] [INFO] Clicked Add to Cart successfully
+[2026-02-18T05:36:00.777Z] [INFO] isspanelementVisible
+[2026-02-18T05:36:00.788Z] [INFO] clicked Proceed to Checkout button
+[2026-02-18T05:36:00.795Z] [INFO] clickProceedCheckout
+[2026-02-18T05:36:00.999Z] [INFO] Using test data: login
+[2026-02-18T05:36:01.006Z] [INFO] Filling form Phone number
+[2026-02-18T05:36:01.035Z] [INFO] Filling form Street
+[2026-02-18T05:36:01.106Z] [INFO] Filling form city
+[2026-02-18T05:36:01.142Z] [INFO] Filling form country
+[2026-02-18T05:36:01.164Z] [INFO] clickSubmitBtn
+[2026-02-18T05:36:01.273Z] [INFO] check Congrats Msg is Visible
+[2026-02-18T05:36:01.301Z] [INFO] the test is closed
+[2026-02-18T05:36:29.936Z] [INFO] Launching browser
+[2026-02-18T05:36:35.727Z] [INFO] the test is closed
+[2026-02-18T05:36:36.673Z] [INFO] Launching browser
+[2026-02-18T05:36:37.703Z] [INFO] User is navigating to register page
+[2026-02-18T05:36:37.709Z] [INFO] Opening link
+[2026-02-18T05:36:39.079Z] [INFO] Link is Opened
+[2026-02-18T05:36:39.088Z] [INFO] Using test data: CorrectCredentials
+[2026-02-18T05:36:39.096Z] [INFO] Filling form fname
+[2026-02-18T05:36:39.162Z] [INFO] Filling form lname
+[2026-02-18T05:36:39.205Z] [INFO] Filling form phone
+[2026-02-18T05:36:39.237Z] [INFO] Filling form country
+[2026-02-18T05:36:39.265Z] [INFO] Filling form email
+[2026-02-18T05:36:39.292Z] [INFO] Filling form password
+[2026-02-18T05:36:39.314Z] [INFO] Click Register login
+[2026-02-18T05:36:40.018Z] [INFO] Checking successful registration
+[2026-02-18T05:36:40.023Z] [INFO] RegisteredtextVisible
+[2026-02-18T05:36:40.040Z] [INFO] the test is closed
+[2026-02-18T05:36:40.809Z] [INFO] Launching browser
+[2026-02-18T05:36:41.784Z] [INFO] User is navigating to register page
+[2026-02-18T05:36:41.790Z] [INFO] Opening link
+[2026-02-18T05:36:43.656Z] [INFO] Link is Opened
+[2026-02-18T05:36:43.664Z] [INFO] Using test data: Credswithoutpassword
+[2026-02-18T05:36:43.669Z] [INFO] Filling form fname
+[2026-02-18T05:36:43.723Z] [INFO] Filling form lname
+[2026-02-18T05:36:43.758Z] [INFO] Filling form phone
+[2026-02-18T05:36:43.788Z] [INFO] Filling form country
+[2026-02-18T05:36:43.816Z] [INFO] Filling form email
+[2026-02-18T05:36:43.842Z] [INFO] Filling form password
+[2026-02-18T05:36:43.871Z] [INFO] Click Register login
+[2026-02-18T05:36:44.621Z] [INFO] Checking validation error
+[2026-02-18T05:36:44.626Z] [INFO] Check validationmessagespasswordfield
+[2026-02-18T05:36:44.871Z] [INFO] the test is closed
+[2026-02-18T05:36:45.693Z] [INFO] Launching browser
+[2026-02-18T05:36:48.340Z] [INFO] When the user is in the home page
+[2026-02-18T05:36:50.649Z] [INFO] When the shopping page should be displayed
+[2026-02-18T05:36:50.712Z] [INFO] clicking Add to Cart button
+[2026-02-18T05:36:50.742Z] [INFO] Clicking Add to Cart button
+[2026-02-18T05:36:50.861Z] [INFO] Clicked Add to Cart successfully
+[2026-02-18T05:36:50.884Z] [INFO] isspanelementVisible
+[2026-02-18T05:36:50.948Z] [INFO] clicked Proceed to Checkout button
+[2026-02-18T05:36:50.967Z] [INFO] clickProceedCheckout
+[2026-02-18T05:36:51.114Z] [INFO] Using test data: login
+[2026-02-18T05:36:51.152Z] [INFO] Filling form Phone number
+[2026-02-18T05:36:51.212Z] [INFO] Filling form Street
+[2026-02-18T05:36:51.253Z] [INFO] Filling form city
+[2026-02-18T05:36:51.298Z] [INFO] Filling form country
+[2026-02-18T05:36:51.331Z] [INFO] clickSubmitBtn
+[2026-02-18T05:36:51.453Z] [INFO] check Congrats Msg is Visible
+[2026-02-18T05:36:51.532Z] [INFO] the test is closed
+[2026-02-18T06:04:36.459Z] [INFO] Launching browser
+[2026-02-18T06:04:43.392Z] [INFO] the test is closed
+[2026-02-18T06:04:43.881Z] [INFO] Launching browser
+[2026-02-18T06:04:44.512Z] [INFO] User is navigating to register page
+[2026-02-18T06:04:44.516Z] [INFO] Opening link
+[2026-02-18T06:04:46.501Z] [INFO] Link is Opened
+[2026-02-18T06:04:46.505Z] [INFO] Using test data: CorrectCredentials
+[2026-02-18T06:04:46.508Z] [INFO] Filling form fname
+[2026-02-18T06:04:46.553Z] [INFO] Filling form lname
+[2026-02-18T06:04:46.573Z] [INFO] Filling form phone
+[2026-02-18T06:04:46.591Z] [INFO] Filling form country
+[2026-02-18T06:04:46.604Z] [INFO] Filling form email
+[2026-02-18T06:04:46.617Z] [INFO] Filling form password
+[2026-02-18T06:04:46.635Z] [INFO] Click Register login
+[2026-02-18T06:04:47.268Z] [INFO] Checking successful registration
+[2026-02-18T06:04:47.271Z] [INFO] RegisteredtextVisible
+[2026-02-18T06:04:47.282Z] [INFO] the test is closed
+[2026-02-18T06:04:47.670Z] [INFO] Launching browser
+[2026-02-18T06:04:48.289Z] [INFO] User is navigating to register page
+[2026-02-18T06:04:48.292Z] [INFO] Opening link
+[2026-02-18T06:04:49.863Z] [INFO] Link is Opened
+[2026-02-18T06:04:49.867Z] [INFO] Using test data: Credswithoutpassword
+[2026-02-18T06:04:49.869Z] [INFO] Filling form fname
+[2026-02-18T06:04:49.912Z] [INFO] Filling form lname
+[2026-02-18T06:04:49.938Z] [INFO] Filling form phone
+[2026-02-18T06:04:49.954Z] [INFO] Filling form country
+[2026-02-18T06:04:49.966Z] [INFO] Filling form email
+[2026-02-18T06:04:49.978Z] [INFO] Filling form password
+[2026-02-18T06:04:49.994Z] [INFO] Click Register login
+[2026-02-18T06:04:50.647Z] [INFO] Checking validation error
+[2026-02-18T06:04:50.652Z] [INFO] Check validationmessagespasswordfield
+[2026-02-18T06:04:50.856Z] [INFO] the test is closed
+[2026-02-18T06:04:51.303Z] [INFO] Launching browser
+[2026-02-18T06:04:53.829Z] [INFO] When the user is in the home page
+[2026-02-18T06:05:01.840Z] [INFO] When the shopping page should be displayed
+[2026-02-18T06:05:01.849Z] [INFO] clicking Add to Cart button
+[2026-02-18T06:05:01.854Z] [INFO] Clicking Add to Cart button
+[2026-02-18T06:05:01.946Z] [INFO] Clicked Add to Cart successfully
+[2026-02-18T06:05:01.948Z] [INFO] isspanelementVisible
+[2026-02-18T06:05:01.956Z] [INFO] clicked Proceed to Checkout button
+[2026-02-18T06:05:01.959Z] [INFO] clickProceedCheckout
+[2026-02-18T06:05:02.099Z] [INFO] Using test data: login
+[2026-02-18T06:05:02.104Z] [INFO] Filling form Phone number
+[2026-02-18T06:05:02.127Z] [INFO] Filling form Street
+[2026-02-18T06:05:02.154Z] [INFO] Filling form city
+[2026-02-18T06:05:02.173Z] [INFO] Filling form country
+[2026-02-18T06:05:02.182Z] [INFO] clickSubmitBtn
+[2026-02-18T06:05:02.266Z] [INFO] check Congrats Msg is Visible
+[2026-02-18T06:05:02.286Z] [INFO] the test is closed

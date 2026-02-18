@@ -7,7 +7,7 @@ const {chromium} = require("@playwright/test");
 Before(async function () {
     logger.info("Launching browser");
     this.browser = await chromium.launch({
-        headless: false,
+        headless:false,
         args: ['--start-maximized']   // maximizes window
     });
     this.context = await this.browser.newContext({
